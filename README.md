@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miss-nash
-- 👀 I’m interested in everything technology.
+- 👀 I’m interested in A-plus softwares, Machine Learning, Deep Learning and A.I.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science/Machine Learning projects
 - 📫 How to reach me missnamukuru@gmail.com
